@@ -1,4 +1,3 @@
-import './App.css'
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Albums from './pages/albums';
 import Todos from './pages/todos';
